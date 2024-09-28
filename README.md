@@ -20,6 +20,8 @@
 [![-](/_assets/10_os.jpg) Personal Computer](#personal-computers)<br>
 [![-](/_assets/9_router.jpg) Smart Home](#smart-home)<br>
 
+## [SQUARE X](https://sqrx.com/) Get portable protection on browser
+
 ## Passwords
 
 Most reported data breaches are caused by the use of weak, default or stolen passwords (according to [this Verizon report](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)). Massive amounts of private data have been, and will continue to be stolen because of this.
